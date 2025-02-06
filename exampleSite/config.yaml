@@ -245,7 +245,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
+      - title: Google runner
         content: I solved all problems with optimal solution.
         url: https://example.com
         image: /images/achievment.jpg
