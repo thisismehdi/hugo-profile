@@ -129,8 +129,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Mehdi FILALI."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "Fullstack Developer"
+    content: "Hello, my name is Mehdi Filali. I am a passionate and dedicated Computer Engineer and Web Developer with strong expertise in Java, Spring Boot, Angular, JavaScript, HTML, and CSS. With experience in full-stack web development and desktop application development, I enjoy solving complex problems and creating innovative solutions.
+Motivated, autonomous, and highly organized, I am eager to contribute to challenging projects while expanding my knowledge in cloud computing and artificial intelligence. Open to new opportunities, I am ready to bring value to a dynamic team."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -138,18 +139,15 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "MehdiResume.pdf"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/thisismehdi
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/filali-mehdi/
 
   # About
   about:
