@@ -153,7 +153,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/me.png"
-    content: |
+    content: |-
       Hello, my name is Mehdi Filali. I am a passionate and dedicated Computer Engineer and Web Developer with strong expertise in Java, Spring Boot, Angular, JavaScript, HTML, and CSS. With experience in full-stack web development and desktop application development, I enjoy solving complex problems and creating innovative solutions.
 
 Motivated, autonomous, and highly organized, I am eager to contribute to challenging projects while expanding my knowledge in cloud computing and artificial intelligence. Open to new opportunities, I am ready to bring value to a dynamic team.
@@ -179,8 +179,8 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
     items:
       - job: "Fullstack Developer"
         company: "Ilem group"
-        companyUrl: "https://new.ilemgroup.com/"
-        date: "03/2024 - 09/2024"
+        companyUrl: "https://new.ilemgroup.com"
+        date: "Mar 2024 - Sep 2024"
         featuredLink:
           enable: true
           name: "Inventaire vCenter Intern"
@@ -192,7 +192,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       - job: "Fullstack Developer Intern"
         company: "6solutions"
         companyUrl: "https://6solutions.com/"
-        date: "06/2023 - 10/2023"
+        date: "Jun 2023 - Oct 2023"
         featuredLink:
           enable: true
           name : "BonPlans"
@@ -208,7 +208,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       - job: "PFE internship"
         company: "FPS"
         companyUrl: "https://fps.uca.ma/"
-        date: "05/2021 - 07/2021"
+        date: "May 2021 - Jul 2021"
         info:
           enable: false
         featuredLink:
@@ -229,12 +229,12 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
         school:
           name: "Ecole Marocaine des Sciences de l'Ingenieur"
           url: "https://emsi.ma/"
-        date: "10/2022 – 07/2024"
+        date: "Oct 2022 to Jul 2024"
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Cadi Ayyad"
           url: "https://fps.uca.ma/"
-        date: "10/2018 – 07/2021"
+        date: "Oct 2018 to Jul 2021"
         featuredLink:
           enable: false
           name: "My academic record"
