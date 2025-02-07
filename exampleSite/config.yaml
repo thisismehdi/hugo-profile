@@ -147,7 +147,7 @@ params:
           url: https://github.com/thisismehdi
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/filali-mehdi/
-
+      
   # About
   about:
     enable: true
@@ -163,14 +163,10 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       items:
         - "Java"
         - "Spring Boot"
-        - ".Net"
         - "Python"
         - "Django"
         - "JavaScript"
         - "Angular"
-        - "React"
-        - "HTML"
-        - "CSS"
 
   # Experience
   experience:
@@ -180,7 +176,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       - job: "Fullstack Developer"
         company: "Ilem group"
         companyUrl: "https://new.ilemgroup.com"
-        date: "Mar 2024 - Sep 2024"
+        date: "Mar 2024 to Sep 2024"
         featuredLink:
           enable: true
           name: "Inventaire vCenter Intern"
@@ -192,7 +188,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       - job: "Fullstack Developer Intern"
         company: "6solutions"
         companyUrl: "https://6solutions.com/"
-        date: "Jun 2023 - Oct 2023"
+        date: "Jun 2023 to Oct 2023"
         featuredLink:
           enable: true
           name : "BonPlans"
@@ -208,7 +204,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
       - job: "PFE internship"
         company: "FPS"
         companyUrl: "https://fps.uca.ma/"
-        date: "May 2021 - Jul 2021"
+        date: "May 2021 to Jul 2021"
         info:
           enable: false
         featuredLink:
