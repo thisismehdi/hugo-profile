@@ -181,9 +181,7 @@ Motivated, autonomous, and highly organized, I am eager to contribute to challen
           enable: true
           name: "Inventaire vCenter Intern"
           url: "https://github.com/thisismehdi/vCenter-Inventory-Manager"
-        content: "The Inventaire vCenter project was developed during a six-month internship to meet the specific needs of managing VMs and clients.
-        I implemented a RESTful API using Java for seamless integration with VMware vCenter. I developed a secure authentication system with Azure AD and MSAL. 
-        Additionally, I built data export functionalities in Angular to generate CSV reports for resource consumption. To ensure efficient project management, I utilized Agile methodologies and JIRA."
+        content: "The Inventaire vCenter project was developed during a six-month internship to meet the specific needs of managing VMs and clients. I implemented a RESTful API using Java for seamless integration with VMware vCenter. I developed a secure authentication system with Azure AD and MSAL. Additionally, I built data export functionalities in Angular to generate CSV reports for resource consumption. To ensure efficient project management, I utilized Agile methodologies and JIRA."
 
       - job: "Fullstack Developer Intern"
         company: "6solutions"
