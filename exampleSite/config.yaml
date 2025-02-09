@@ -195,12 +195,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: Job recommendation system
+        content: Design and develop an innovative job recommendation system to facilitate the match between candidates and job openings.
+        url: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: vCenter-Inventory-Manager
+        content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
         image: /images/achievment.jpg
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
