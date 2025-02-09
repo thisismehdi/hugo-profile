@@ -164,6 +164,8 @@ params:
         - "Spring Boot"
         - "Python"
         - "Django"
+        - "C#"
+        - ".Net"
         - "Angular"
         - "React"
 
