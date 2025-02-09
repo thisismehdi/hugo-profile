@@ -232,7 +232,7 @@ params:
 
       - title: vCenter-Inventory-Manager
         content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
-        image: /images/projects/ilem.png
+        image: /images/projects/vcenter.jpg
         featured:
           name: Link
           link: https://github.com/thisismehdi/vCenter-Inventory-Manager
@@ -246,7 +246,7 @@ params:
 
       - title: CoExam
         content: This project is an application designed to facilitate remote exam monitoring using facial detection to track students' attention.
-        image: /images/projects/coexam.jpeg
+        image: /images/projects/coexam.jpg
         featured:
           name: Link
           link: https://github.com/thisismehdi/CoExam
