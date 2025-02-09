@@ -160,12 +160,12 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
+         - "Java"
+        - "Spring Boot"
+        - "Python"
+        - "Django"
+        - "Angular"
         - "React"
-        - "Node"
-        - "Express"
 
   # Experience
   experience:
