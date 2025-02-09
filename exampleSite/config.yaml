@@ -169,92 +169,25 @@ params:
         - "Angular"
         - "React"
 
-  # Experience
-  experience:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - job: "Fullstack Developer"
-        company: "Ilem group"
-        companyUrl: "https://new.ilemgroup.com"
-        date: "Mar 2024 to Sep 2024"
-        featuredLink:
-          enable: true
-          name: "Inventaire vCenter Intern"
-          url: "https://github.com/thisismehdi/vCenter-Inventory-Manager"
-        content: "The Inventaire vCenter project was developed during a six-month internship to meet the specific needs of managing VMs and clients. I implemented a RESTful API using Java for seamless integration with VMware vCenter. I developed a secure authentication system with Azure AD and MSAL. Additionally, I built data export functionalities in Angular to generate CSV reports for resource consumption. To ensure efficient project management, I utilized Agile methodologies and JIRA."
-
-      - job: "Fullstack Developer Intern"
-        company: "6solutions"
-        companyUrl: "https://6solutions.com/"
-        date: "Jun 2023 to Oct 2023"
-        featuredLink:
-          enable: true
-          name : "BonPlans"
-          url: "https://github.com/thisismehdi/BonPlan"
-        info:
-          enable: true
-          content: "Fullstack Developer"
-        content: |
-         I developed a responsive web application using Java and Angular to compare product prices across various online retailers. 
-         I implemented web scraping algorithms to gather real-time pricing data from multiple e-commerce platforms. Additionally, 
-         I created a user-friendly interface that allows easy product search and comparison. To enhance user experience, I integrated data analysis tools to provide insights on price trends and best deal recommendations.
-
-      - job: "PFE internship"
-        company: "FPS"
-        companyUrl: "https://fps.uca.ma/"
-        date: "May 2021 to Jul 2021"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://github.com/thisismehdi/CoExam"
-        content: |
-          I contributed to the development of a secure online examination platform using Django and Face-api.js, 
-          incorporating facial recognition technology. I implemented backend logic for user authentication and exam session management. 
-          Additionally, I integrated a facial recognition API to ensure the identity verification of exam takers. To enhance security, I developed features for real-time monitoring of exam sessions and automatic flagging of suspicious activities.
-
-  # Education
+# Education
   education:
     enable: true
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Engineering Degree in Computer Science and Networks"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          name: "Ecole Marocaine des Sciences de l'Ingenieur"
+          url: "https://emsi.ma/"
+        date: "Oct 2022 to Jul 2024"
       - title: "Bachelor of Science in Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          name: "Cadi Ayyad"
+          url: "https://fps.uca.ma/"
+        date: "Oct 2018 to Jul 2021"
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
           url: "https://example.com"
 
   # Achievements
