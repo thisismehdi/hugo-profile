@@ -217,50 +217,61 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: Job recommendation system
+        content: Design and develop an innovative job recommendation system to facilitate the match between candidates and job openings.
         image: /images/projects/profile.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: Link
+          link: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "Angular"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: vCenter-Inventory-Manager
+        content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
         image: /images/projects/converter.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Link
+          link: https://github.com/thisismehdi/vCenter-Inventory-Manager
+        badges:
+          - "Java"
+          - "Angular"
+          - "Azure AD"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/thisismehdi/vCenter-Inventory-Manager
+
+      - title: CoExam
+        content: This project is an application designed to facilitate remote exam monitoring using facial detection to track students' attention.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Link
+          link: https://github.com/thisismehdi/CoExam
         badges:
           - "Django"
           - "Bootstrap"
+          - "Face-Api-js"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+            url: https://github.com/thisismehdi/CoExam
+        
+      - title: Hiking-App
+        content: The Django Hiking Application is a web-based platform built with Django, designed to help hikers plan, track, and share their hiking adventures.
         image: /images/projects/profile2.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Link
+          link: https://github.com/thisismehdi/Hiking-App
         badges:
-          - "Hugo"
+          - "Django"
           - "Bootstrap"
-          - "Javascript"
+          - "Face-Api-js"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/thisismehdi/Hiking-App
+        
 
   #Contact
   contact:
