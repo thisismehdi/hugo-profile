@@ -155,7 +155,7 @@ params:
     image: "/images/me.png"
     content: |-
       I am a passionate and dedicated Computer Engineer and Web Developer with strong expertise in Java, Spring Boot, Angular, JavaScript, HTML, and CSS. With experience in full-stack web development and desktop application development, I enjoy solving complex problems and creating innovative solutions.
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Motivated, autonomous, and highly organized, I am eager to contribute to challenging projects while expanding my knowledge in cloud computing and artificial intelligence. Open to new opportunities, I am ready to bring value to a dynamic team.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
