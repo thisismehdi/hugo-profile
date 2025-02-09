@@ -258,20 +258,6 @@ params:
           - icon: fab fa-github
             url: https://github.com/thisismehdi/CoExam
         
-      - title: Hiking-App
-        content: The Django Hiking Application is a web-based platform built with Django, designed to help hikers plan, track, and share their hiking adventures.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Link
-          link: https://github.com/thisismehdi/Hiking-App
-        badges:
-          - "Django"
-          - "Bootstrap"
-          - "Face-Api-js"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/thisismehdi/Hiking-App
-        
 
   #Contact
   contact:
