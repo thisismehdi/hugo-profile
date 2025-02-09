@@ -267,11 +267,35 @@ params:
         badges:
           - "Django"
           - "Bootstrap"
-          - "Face-Api-js"
         links:
           - icon: fab fa-github
-            url: https://github.com/thisismehdi/Hiking-App 
+            url: https://github.com/thisismehdi/Hiking-App
+      
+      - title: hotel-restaurant
+        content: This project is a hotel and restaurant management application that facilitates the booking of hotel rooms, reservation of restaurant tables, and efficient management of operations.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Link
+          link: https://github.com/thisismehdi/hotel-restaurant
+        badges:
+          - "Java"
+          - "Thymleaf"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/thisismehdi/hotel-restaurant
 
+      - title: Absence Management
+        content: This project is an absence management application that enables tracking and managing employee absences within a company. It offers features to record absences, monitor requests, and much more.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Link
+          link: https://github.com/thisismehdi/absence-management-application-
+        badges:
+          - "Java"
+          - "Thymleaf"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/thisismehdi/absence-management-application-
   #Contact
   contact:
     enable: true
