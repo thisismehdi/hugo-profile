@@ -219,7 +219,7 @@ params:
     items:
       - title: Job recommendation system
         content: Design and develop an innovative job recommendation system to facilitate the match between candidates and job openings.
-        image: /images/projects/profile.png
+        image: /images/projects/system.jpg
         featured:
           name: Link
           link: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
@@ -232,7 +232,7 @@ params:
 
       - title: vCenter-Inventory-Manager
         content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
-        image: /images/projects/converter.jpg
+        image: /images/projects/ilem.png
         featured:
           name: Link
           link: https://github.com/thisismehdi/vCenter-Inventory-Manager
@@ -246,7 +246,7 @@ params:
 
       - title: CoExam
         content: This project is an application designed to facilitate remote exam monitoring using facial detection to track students' attention.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/coexam.jpeg
         featured:
           name: Link
           link: https://github.com/thisismehdi/CoExam
@@ -260,7 +260,7 @@ params:
 
       - title: Hiking-App
         content: The Django Hiking Application is a web-based platform built with Django, designed to help hikers plan, track, and share their hiking adventures.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/hiking.jpg
         featured:
           name: Link
           link: https://github.com/thisismehdi/Hiking-App
@@ -273,7 +273,7 @@ params:
       
       - title: hotel-restaurant
         content: This project is a hotel and restaurant management application that facilitates the booking of hotel rooms, reservation of restaurant tables, and efficient management of operations.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/converter.jpg
         featured:
           name: Link
           link: https://github.com/thisismehdi/hotel-restaurant
@@ -292,7 +292,7 @@ params:
           link: https://github.com/thisismehdi/absence-management-application-
         badges:
           - "Java"
-          - "Thymleaf"
+          - "Angular"
         links:
           - icon: fab fa-github
             url: https://github.com/thisismehdi/absence-management-application-
