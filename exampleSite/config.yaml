@@ -200,39 +200,19 @@ params:
          I implemented web scraping algorithms to gather real-time pricing data from multiple e-commerce platforms. Additionally, 
          I created a user-friendly interface that allows easy product search and comparison. To enhance user experience, I integrated data analysis tools to provide insights on price trends and best deal recommendations.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "PFE internship"
+        company: "FPS"
+        companyUrl: "https://fps.uca.ma/"
+        date: "May 2021 to Jul 2021"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://github.com/thisismehdi/CoExam"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          I contributed to the development of a secure online examination platform using Django and Face-api.js, 
+          incorporating facial recognition technology. I implemented backend logic for user authentication and exam session management. 
+          Additionally, I integrated a facial recognition API to ensure the identity verification of exam takers. To enhance security, I developed features for real-time monitoring of exam sessions and automatic flagging of suspicious activities.
 
   # Education
   education:
