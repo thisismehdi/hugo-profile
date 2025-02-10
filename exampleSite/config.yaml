@@ -182,7 +182,8 @@ params:
         date: "Oct 2022 to Jul 2024"
         GPA: "3.8 out of 5.0"
         content: |-
-        I earned an Engineering Degree in Computer Science from Ecole Marocaine des Sciences de l'Ingénieur (EMSI), where I developed strong skills in software development, database management, cybersecurity, and cloud computing.
+          I earned an Engineering Degree in Computer Science from Ecole Marocaine des Sciences de l'Ingénieur (EMSI), 
+          where I developed strong skills in software development, database management, cybersecurity, and cloud computing.
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Cadi Ayyad"
@@ -190,7 +191,8 @@ params:
         date: "Oct 2018 to Jul 2021"
         GPA: "3.8 out of 5.0"
         content: |-
-        I earned a Bachelor of Science in Computer Science from Cadi Ayyad University, where I built a strong foundation in programming, algorithms, operating systems, databases, and software development.
+          I earned a Bachelor of Science in Computer Science from Cadi Ayyad University, 
+          where I built a strong foundation in programming, algorithms, operating systems, databases, and software development.
 
   # Achievements
   achievements:
