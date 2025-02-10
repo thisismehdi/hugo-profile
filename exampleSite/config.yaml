@@ -180,15 +180,15 @@ params:
           name: "Ecole Marocaine des Sciences de l'Ingenieur"
           url: "https://emsi.ma/"
         date: "Oct 2022 to Jul 2024"
+        content: |-
+        I earned an Engineering Degree in Computer Science from Ecole Marocaine des Sciences de l'Ingénieur (EMSI), where I developed strong skills in software development, database management, cybersecurity, and cloud computing.
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Cadi Ayyad"
           url: "https://fps.uca.ma/"
         date: "Oct 2018 to Jul 2021"
-        featuredLink:
-          enable: false
-          name: "My academic record"
-          url: "https://example.com"
+        content: |-
+        I earned a Bachelor of Science in Computer Science from Cadi Ayyad University, where I built a strong foundation in programming, algorithms, operating systems, databases, and software development.
 
   # Achievements
   achievements:
