@@ -199,20 +199,28 @@ params:
     items:
       - title: Building Scalable Java Microservices with Spring Boot and Spring Cloud
         content: I have learned to build Spring Boot microservices that integrate seamlessly with Google Cloud managed services, enabling scalable and cloud-native applications.
-        url: https://www.coursera.org/account/accomplishments/verify/4WUGRGCDTD2J
+        url: "https://www.coursera.org/account/accomplishments/verify/4WUGRGCDTD2J"
         image: /images/1.png
-      - title: vCenter-Inventory-Manager
-        content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: Advanced React
+        content:  have learned to create robust and reusable React components using advanced techniques and design patterns to optimize code reusability.
+        url: "https://www.coursera.org/account/accomplishments/verify/VF2HVSTVRXAA"
+        image: /images/2.png
+      - title: Agile Development and Scrum
+        content: I have learned to apply Agile and Scrum practices, including user story writing, sprint planning, and backlog management, while leveraging test-driven development and Kanban tracking.
+        url: "https://www.coursera.org/account/accomplishments/verify/XFQCAKWYW3VW"
+        image: /images/3.png
+      - title: DevOps, Cloud, and Agile Foundations
+        content: I have learned the foundations DevOps, Cloud, and Agile Foundations, covering DevOps practices and tools, cloud computing models and services, and Agile methodologies.
+        url: "https://www.coursera.org/account/accomplishments/specialization/5B2KJBU46XFD"
+        image: /images/4.png
+      - title: Machine Learning with Python
+        content: I have learned machine learning with Python, using Scikit-learn to build, test, and optimize models while managing bias-variance tradeoffs.
+        url: "https://www.coursera.org/account/accomplishments/verify/5ET4C39KCVFP"
+        image: /images/5.png
+      - title: Developing Back-End Apps with Node.js and Express
+        content: I have learned to build back-end applications with Node.js and Express, utilizing third-party packages and npm for efficient development.
+        url: "https://www.coursera.org/account/accomplishments/verify/FD7LJTT97A9V"
+        image: /images/6.png
 
   # projects
   projects:
