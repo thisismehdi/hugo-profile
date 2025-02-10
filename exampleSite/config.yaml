@@ -85,7 +85,7 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
+      enable : false
       showOnScrollUp : true
     enableSeparator: false
     menus:
