@@ -337,7 +337,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "Explore 🌍, Create ✨, Achieve 💻"
+    copyright: "Discover 🌎, Code 👨‍💻, Achieve 💻"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
