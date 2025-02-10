@@ -141,6 +141,52 @@ params:
         - "Angular"
         - "React"
 
+  # Experience
+  experience:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - job: "Fullstack Developer"
+        company: "Ilem group"
+        companyUrl: "https://new.ilemgroup.com"
+        date: "Mar 2024 to Sep 2024"
+        featuredLink:
+          enable: true
+          name: "Inventaire vCenter Intern"
+          url: "https://github.com/thisismehdi/vCenter-Inventory-Manager"
+        content: "The Inventaire vCenter project was developed during a six-month internship to meet the specific needs of managing VMs and clients. I implemented a RESTful API using Java for seamless integration with VMware vCenter. I developed a secure authentication system with Azure AD and MSAL. Additionally, I built data export functionalities in Angular to generate CSV reports for resource consumption. To ensure efficient project management, I utilized Agile methodologies and JIRA."
+
+      - job: "Fullstack Developer Intern"
+        company: "6solutions"
+        companyUrl: "https://6solutions.com/"
+        date: "Jun 2023 to Oct 2023"
+        featuredLink:
+          enable: true
+          name : "BonPlans"
+          url: "https://github.com/thisismehdi/BonPlan"
+        info:
+          enable: true
+          content: "Fullstack Developer"
+        content: |
+          I developed a responsive web application using Java and Angular to compare product prices across various online retailers. 
+          I implemented web scraping algorithms to gather real-time pricing data from multiple e-commerce platforms. Additionally, 
+          I created a user-friendly interface that allows easy product search and comparison. To enhance user experience, I integrated data analysis tools to provide insights on price trends and best deal recommendations.
+
+      - job: "PFE internship"
+        company: "FPS"
+        companyUrl: "https://fps.uca.ma/"
+        date: "May 2021 to Jul 2021"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "https://github.com/thisismehdi/CoExam"
+        content: |
+          I contributed to the development of a secure online examination platform using Django and Face-api.js, 
+          incorporating facial recognition technology. I implemented backend logic for user authentication and exam session management. 
+          Additionally, I integrated a facial recognition API to ensure the identity verification of exam takers. To enhance security, I developed features for real-time monitoring of exam sessions and automatic flagging of suspicious activities.
+
+
 # Education
   education:
     enable: true
