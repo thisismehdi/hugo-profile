@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "My Portfolio"
 theme: hugo-profile
 
 outputs:
@@ -131,7 +131,7 @@ params:
     title: "Mehdi FILALI."
     subtitle: "Fullstack Developer"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/mehdiF.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
