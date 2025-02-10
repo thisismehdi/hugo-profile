@@ -180,7 +180,6 @@ params:
           name: "Ecole Marocaine des Sciences de l'Ingenieur"
           url: "https://emsi.ma/"
         date: "Oct 2022 to Jul 2024"
-        GPA: "3.8 out of 5.0"
         content: |-
           I earned an Engineering Degree in Computer Science from Ecole Marocaine des Sciences de l'Ingénieur (EMSI), 
           where I developed strong skills in software development, database management, cybersecurity, and cloud computing.
@@ -189,7 +188,6 @@ params:
           name: "Cadi Ayyad"
           url: "https://fps.uca.ma/"
         date: "Oct 2018 to Jul 2021"
-        GPA: "3.8 out of 5.0"
         content: |-
           I earned a Bachelor of Science in Computer Science from Cadi Ayyad University, 
           where I built a strong foundation in programming, algorithms, operating systems, databases, and software development.
@@ -199,10 +197,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Job recommendation system
-        content: Design and develop an innovative job recommendation system to facilitate the match between candidates and job openings.
-        url: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
-        image: /images/achievment.jpg
+      - title: Building Scalable Java Microservices with Spring Boot and Spring Cloud
+        content: I have learned to build Spring Boot microservices that integrate seamlessly with Google Cloud managed services, enabling scalable and cloud-native applications.
+        url: https://www.coursera.org/account/accomplishments/verify/4WUGRGCDTD2J
+        image: /images/1.png
       - title: vCenter-Inventory-Manager
         content: This application overcomes the access limitations of vCenter, facilitating the management and billing of resources consumed by clients.
         image: /images/achievment.jpg
