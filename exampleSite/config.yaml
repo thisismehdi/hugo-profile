@@ -248,6 +248,9 @@ params:
       - title: Job recommendation system
         content: Design and develop an innovative job recommendation system to facilitate the match between candidates and job openings.
         image: /images/projects/system.jpg
+        featured:
+          name: Link
+          link: https://github.com/thisismehdi/Systeme_de_recommandation_de_emploi
         badges:
           - "Java"
           - "Angular"
